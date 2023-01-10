@@ -17,10 +17,8 @@ npm i
 npm start
 ```
 
-## Live sit
-```
-  https://videovault.netlify.app/.
-```
+## Live site
+https://videovault.netlify.app/.
 
 ## Built With
 
