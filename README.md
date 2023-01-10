@@ -1,7 +1,7 @@
 # VideoVault
 
-VideoVault is a YouTube Clone made using the YouTube V3 API from RapidApi.
-
+- VideoVault is a YouTube Clone made using the YouTube V3 API from RapidApi.
+- https://videovault.netlify.app/
 ![React](./assets/home.JPG)
 
 ## Installation
