@@ -2,7 +2,7 @@
 
 VideoVault is a YouTube Clone made using the YouTube V3 API from RapidApi.
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![React](./assets/home.JPG)
 
 ## Installation
 
@@ -15,7 +15,7 @@ npm start
 
 ## Built With
 
-![React](./assets//home.JPG)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <br>
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 <br>
